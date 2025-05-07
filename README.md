@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - ### Main Tools
 <div width="100%">
