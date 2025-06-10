@@ -41,10 +41,17 @@
 > 음식/운동 기록, 칼로리 시각화, 챌린지 시스템 구현  
 > DB 설계, API 개발 및 프론트 연동 지원
 
-### [피움](https://github.com/shiroHSG/Pium)
-> 커뮤니티 기반 육아 앱 플랫폼
+### [피움](https://github.com/shiroHSG/Pium)  
+> 커뮤니티 기반 육아 앱 플랫폼  
 > 회원/아이/게시판/품앗이 기능 중심의 커뮤니티 백엔드 설계  
 > 팀장 역할 수행, 전체 기능 흐름 관리 및 협업 주도
+
+---
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHwan94&show_icons=true&theme=default&hide=stars&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungHwan94&layout=compact&theme=default)
 
 ---
 
