@@ -36,7 +36,7 @@
 
 ## 📌 주요 프로젝트
 
-### [칼로몽](https://github.com/your-link)  
+### [칼로몽]([https://github.com/your-link](https://github.com/JungHwan94/Calomong))  
 > 건강관리 웹 플랫폼 (React + Spring Boot + Oracle)  
 > 음식/운동 기록, 칼로리 시각화, 챌린지 시스템 구현  
 > DB 설계, API 개발 및 프론트 연동 지원
