@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8F6C9F&center=true&vCenter=true&width=500&lines=Welcome+to+JungHwan's+GitHub!+👋" />
 </p>
 
-## 👋 
+## 
 
 안녕하세요. 구조적인 사고와 팀워크를 바탕으로 문제를 해결하는 백엔드 개발자 한정환입니다.  
 실사용자를 고려한 웹 플랫폼을 설계하고 구현하며, 지속 가능한 코드를 고민합니다.
