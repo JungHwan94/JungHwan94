@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6db3f2,100:007acc&height=200&section=header&text=Welcome!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8F6C9F&center=true&vCenter=true&width=500&lines=Welcome+to+JungHwan's+GitHub!+👋" />
+</p>
 
 ## 👋 
 
