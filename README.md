@@ -1,8 +1,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6db3f2,100:007acc&height=200&section=header&text=Welcome!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
-## 👋 한정환입니다!
+## 👋
 
-안녕하세요. 구조적인 사고와 팀워크를 바탕으로 문제를 해결하는 백엔드 개발자입니다.  
+안녕하세요. 구조적인 사고와 팀워크를 바탕으로 문제를 해결하는 백엔드 개발자 한정환입니다.  
 실사용자를 고려한 웹 플랫폼을 설계하고 구현하며, 지속 가능한 코드를 고민합니다.
 
 ---
